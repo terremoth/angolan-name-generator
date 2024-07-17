@@ -1,5 +1,3 @@
-
-
 const names_before = `Dolar
 Plufit Victory
 Mestr@ Mágica
@@ -124,6 +122,7 @@ do Kuduro`;
 const random_array_item = function(items) {
     return items[Math.floor(Math.random()*items.length)];
 };
+
 const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || "";
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -143,8 +142,11 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const all_names_before = names_before.split("\n");
         const all_names_after = names_after.split("\n"); 
+        let infix = random_array_item(all_names_before).replace(/\@/g, sex);
+        let name_fixed = capitalize(user_name.value);
+        let suffix = random_array_item(all_names_after).replace(/\@/g, sex);
         
-        document.querySelector("#my-new-name span").innerHTML = random_array_item(all_names_before).replace(/\@/g, sex) + ' ' + capitalize(user_name.value) + ' ' + random_array_item(all_names_after).replace(/\@/g, sex);
+        document.querySelector("#my-new-name span").innerHTML = `${infix} ${name_fixed} ${suffix}`;
     });
     
     
