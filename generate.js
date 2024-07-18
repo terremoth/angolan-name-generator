@@ -120,7 +120,7 @@ do Kuduro`;
 
 
 const random_array_item = function(items) {
-    return items[Math.floor(Math.random()*items.length)];
+    return rando(items).value;
 };
 
 const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || "";
