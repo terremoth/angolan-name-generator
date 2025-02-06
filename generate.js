@@ -13,6 +13,7 @@ Esmerald@
 Fuyame
 Doming@s
 Tonivald@
+Celestin@
 Pay Loc@
 Baraka
 De Muanza
@@ -61,6 +62,7 @@ Kipaca Mamboma
 Cumbe Rapin@
 Chef Bakongo
 Setas NBA
+@ Pitang@
 Sölótchï
 Chapelin@
 @ Reformad@
@@ -68,11 +70,13 @@ Los Compadres
 El Dracula
 @ Bitinh@
 Love Lov
+Bazuka
 Principiad@ de Eldorado
 Peregrin@
 Barba de Gato
 Galátic@
 Ruas das Ruas
+@ Pacat@
 Missed King
 Djucci Ginga
 Mu Disso
@@ -95,6 +99,7 @@ Zulu Matiãs
 Martinh@ Reformad@
 Labate Animador
 dos Sangradores
+Da Djamba
 Chad Patrici@
 Rico Bilha
 Storrbiny
