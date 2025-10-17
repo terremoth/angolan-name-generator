@@ -3,21 +3,45 @@ Plufit Victory
 Mestr@ Mágica
 Sua Excelencia
 Djanera
+Föx
 Insurret@
+Abacatí
 Da Rosa
+Mä Nü Ël@
+Benisvaud@
+Mïùd@
+Le Brune
+Dos Populares
+Laur@ Infinit@
+Tempestady
+Tuneca
 @ Letrad@
+Variante Carinhos@
 Vem ser famos@
 Miúd@
+Charlotte
+Muid@ Mimad@ Boss
+Ndimbex
+Ho Figura
+Dericleni@
 Ativad@
 Esmerald@
+Kotok@
+Tchumaca
 Fuyame
 Doming@s
 Tonivald@
+Dos Mestres
+Landils@m
 Celestin@
+Reservad@
+Estrelas de Càcüacu
 Pay Loc@
+Dikizeco
 Baraka
 De Muanza
 Figura Publica
+Imaculad@
 Star Best
 Figurå
 Sacapela
@@ -46,42 +70,56 @@ Kissanga
 Modo Bumba
 Querid@
 Medusa
+Kapot@ Brahyony
 Classic@
 Kid King
 @ Princes@
 Golfin@
 @ Mystik@
 Kusseka
+Chick Negrinh@
 Cooktail Balanga
 Skill Paris King
 Mäjor Mustang
 Amoros@ Valente
+Tribäl Nêÿ
 Victory Victory
 Canjica de Ouro
 Kipaca Mamboma
 Cumbe Rapin@
+Piedade Kapingala
 Chef Bakongo
+De Bunga Canganjo
 Setas NBA
 @ Pitang@
 Sölótchï
+Polian@ Vibes
 Chapelin@
+Amarula dos Gucci
 @ Reformad@
 Los Compadres
 El Dracula
 @ Bitinh@
 Love Lov
+Mödö Böss
 Bazuka
+Ëlöngö Tërësä
 Principiad@ de Eldorado
 Peregrin@
 Barba de Gato
 Galátic@
 Ruas das Ruas
+dos Pändä
 @ Pacat@
 Missed King
 Djucci Ginga
+Tchissanga Zerinh@
 Mu Disso
+Camatanga Mimosa
 Djudja Nganda
 Boss Januário
+Mimad@ Wazekwa
+Bältåzär
 Sänämä
 De Marsel@
 Black Pausad@
@@ -92,13 +130,21 @@ Coroa Ndombele
 @ Mestrad@
 @ Hilaria
 Destruça Sacrifício
+Benguela Cheezy
+Macuanha Beloumy
+Bunga Basi
+Ngonga Quiluange
+Malueca
+Muheto Pint@
 Manda Brazza Kg
 Muandumba Deus
 Kunzaila Raper
 Zulu Matiãs
+Ziloy Pausadinh@
 Martinh@ Reformad@
 Labate Animador
 dos Sangradores
+@ Tal Bloqueirinh@
 Da Djamba
 Chad Patrici@
 Rico Bilha
@@ -115,8 +161,16 @@ Zecas Kelson
 Roda Smock
 Nagga Ng
 De Deus Friend
+Boss Adão
+Teuma Quingueixem
+Wandajoi Benza
+Jämba Perdid@
+Nguimbi Domingos
 Mangovo Malta
+de Fëvërëïrö
+@ Tal Blindad@
 Oficial da Costeira
+Benza Wacanda
 Cönqüstädör@
 Do Mundinho
 Trezentinh@
@@ -156,6 +210,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     
 });
+
 
 
 
